@@ -41,7 +41,7 @@ Various machine learning algorithms were employed to classify the tweets based o
 
 The Twitter sentiment analysis during the CoVid-19 pandemic provided valuable insights into the prevailing sentiments and emotions of individuals during these challenging times. By leveraging Twitter data and employing various machine learning algorithms and vectorization techniques, we gained a deeper understanding of the sentiments expressed by people, helping us comprehend the impact of the pandemic on society. This analysis contributes to understanding the prevailing public sentiments during crises and can aid in making informed decisions for future similar situations.
 **************************************************************************************************************************************************
-For a complete project video explanation and to download the dataset: [Click here](https://drive.google.com/drive/folders/1rhMrhCXsIxd3veJvPRtw46Ec_rmL7-9v?usp=sharing)
+For a complete project video explanation and to download the dataset: [Click here](https://drive.google.com/drive/u/0/folders/1TrvWSZGdxrKCyr7h0Ag1etCxU1ApBVUN)
 
 Feel free to explore the repository for further insights into the code implementation, methodology, and findings.
 
