@@ -33,11 +33,9 @@ Various machine learning algorithms were employed to classify the tweets based o
 
 4. Support Vector Machine (SVM) Classifier: A powerful algorithm for binary classification. Both Count Vectorization and TF-IDF Vectorization were applied to the text data.
 
-5. Multinomial Naive Bayes & Bernoulli Naive Bayes: Probabilistic classifiers, with Multinomial Naive Bayes suitable for text classification and Bernoulli Naive Bayes for binary features. Both Count Vectorization and TF-IDF Vectorization techniques were utilized.
+5. Random Forest: An ensemble method combining multiple decision trees. Count Vectorization and TF-IDF Vectorization were used to represent the text data.
 
-6. Random Forest: An ensemble method combining multiple decision trees. Count Vectorization and TF-IDF Vectorization were used to represent the text data.
-
-7. Stochastic Gradient Descent: This optimization algorithm was applied for training various models using Count Vectorization and TF-IDF Vectorization techniques.
+6. Stochastic Gradient Descent: This optimization algorithm was applied for training various models using Count Vectorization and TF-IDF Vectorization techniques.
 
 ### Conclusion
 
